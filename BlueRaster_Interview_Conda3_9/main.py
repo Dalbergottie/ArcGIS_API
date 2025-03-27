@@ -18,8 +18,8 @@ COUNTRIES_TO_KEEP = ["Brazil", "Peru", "Bolivia"]
 
 # ArcGIS Online Credentials (Replace with your own)
 PORTAL_URL = "https://daniele.maps.arcgis.com/home/content.html"  # Change for Enterprise Portal
-USERNAME = "dalbergo" # Put credentials here
-PASSWORD = "Fantasy94" # Put credentials here
+USERNAME = "" # Put credentials here
+PASSWORD = "" # Put credentials here
 ITEM_TITLE = "Filtered Fire Data - Brazil, Peru, Bolivia"
 
 
